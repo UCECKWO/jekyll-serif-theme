@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Chotiwat is a PhD student.
+Chotiwat is a PhD student at Imperial College London. 
